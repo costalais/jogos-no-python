@@ -1,2 +1,5 @@
-# jogos-no-python
-Meu primeiro projeto em python, com um menu de seleção e as opções de forca e adivinhação
+<h1> JOGOS EM PYTHON </h1>
+
+> Projeto  Terminado
+
+Para rodar o projeto em linguagem python em sua máquina é necessario ter a linguagem instalada na mesma.
